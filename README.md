@@ -42,3 +42,10 @@ export PATH=$PATH:$(yarn global bin)
 Login: `vercel login`
 Deploy: `vercel`
 Deploy em Produção: `vercel --prod`
+
+Link do Projeto: [https://moveit-ochre-pi.vercel.app/](https://moveit-ochre-pi.vercel.app/)
+
+## Links
+
+* [FormLogin](https://github.com/leosantosx/moveit/blob/master/src/components/FormLogin.tsx)
+* [Whimsical](https://whimsical.com/)
